@@ -5,7 +5,7 @@
  *
  * @license MIT
  * @package Sielatchom\Validator
- * @author  Sielatchom Daryl
+ * @author  Sielatchom Daryl <sielatchomchrisaire@gmail.com>
  */
 
 namespace Sielatchom\Validator;
