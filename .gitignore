@@ -1,0 +1,4 @@
+# .gitignore for PHP project
+
+# Ignore Composer dependencies
+/vendor/

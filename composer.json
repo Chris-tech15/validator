@@ -1,0 +1,26 @@
+{
+    "name": "sielatchom/validator",
+    "description": "Simple PHP validation library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sielatchom\\Validator\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Sielatchom\\Validator\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sielatchom Jeukeng Chrisaire Daryl",
+            "email": "sielatchomchrisaire@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    }
+}
